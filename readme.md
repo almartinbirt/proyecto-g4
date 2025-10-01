@@ -1,2 +1,2 @@
-•	Node.js v22.20.0 
-•	npm v10.9.3
+•	Node.js v20.19.5
+•	npm v10.8.2
