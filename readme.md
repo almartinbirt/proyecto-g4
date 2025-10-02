@@ -1,3 +1,9 @@
+# Comandos para hacer el Build y el Deploy
+ng build --configuration=production —base-href=/proyecto-g4/
+npx angular-cli-ghpages --dir=dist/proyecto-g4/browser --branch=gh-pages
+
+
+
 # CODE
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
